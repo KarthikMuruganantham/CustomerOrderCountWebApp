@@ -10,4 +10,4 @@ Api Details:
 `HostURL/api/get-customer-order-count/Customer_Id` - This will return customer Id with order count for the specific customer.
 
 Note:
-1. Modify the local database connection details in `connectionString` property in the `ApiResponse.cs` file in `Method` folder.
+1. Modify the local database connection details in `connectionString` property in the `ApiResponse.cs` file in `Models` folder.
